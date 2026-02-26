@@ -1,0 +1,63 @@
+nav{
+    background-color: black;
+    position: sticky;
+    top:0px;
+    width: fit-content;
+    border-radius: 20px;
+}
+
+.nav-arrow{
+    color:white;
+}
+
+a{
+    color: black;
+    font-size: 26pt;
+    margin: 20px;
+    text-align: center;
+}
+
+a.indextext{
+    width: max-content;
+    color: black;
+    font-size: 26pt;
+    margin: 20px;
+    align-content: center;
+}
+
+a.act1scenes{
+    color: white;
+    font-size: 17pt;
+    margin: 10px;
+    text-align: center;
+}
+
+a.act2scenes{
+    color: white;
+    font-size: 17pt;
+    margin: 10px;
+    text-align: center;
+}
+
+a.act3scenes{
+    color: white;
+    font-size: 17pt;
+    margin: 10px;
+    text-align: center;
+}
+
+a.act4scenes{
+    color: white;
+    font-size: 17pt;
+    margin: 10px;
+    text-align: center;
+}
+
+a.act5scenes{
+    color: white;
+    font-size: 17pt;
+    margin: 10px;
+    text-align: center;
+}
+
+
